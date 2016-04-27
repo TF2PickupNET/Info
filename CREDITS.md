@@ -1,1 +1,20 @@
-
+- [Crafz](http://steamcommunity.com/id/notmyaccanymoreguys/)
+  - Original creator of TF2Pickup.net
+- [Trath](http://steamcommunity.com/id/Trath/)
+  - Helped to improve the website
+- [Nevo](http://steamcommunity.com/id/retrorockt/)
+  - Created original website design
+- [Fantasy](https://tf2pickup.net/profile/76561197993144169)
+  - Wrote original socket code
+- [Sir Villeta](http://steamcommunity.com/id/sirvi/)
+  - Graphics Designer
+- [F2](http://steamcommunity.com/id/f2/)
+  - TF2Pickup.net Server Plugin
+- [TF2PlayerRankings.com](http://beta.tf2playerrankings.com/)
+  - Team Fortress 2 Player Rankings
+- [jakeowaty](http://steamcommunity.com/id/jakeowaty/)
+  - Editing TF2Pickup.net announcer sounds
+- [GentlemanJon](http://steamcommunity.com/id/GentlemanJon/)
+  - Figuring out player ratings/rankings & team balancing
+- [TF2 Brothers](http://steamcommunity.com/profiles/76561198135547676/)
+  - Made the awesome SFM's backgrounds
