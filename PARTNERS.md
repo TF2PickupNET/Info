@@ -16,3 +16,13 @@
   - Platform for organizing & scheduling Team Fortress 2 scrims
 - [TeamFortressTV](http://teamfortress.tv)
   - NA/EU Competitive Team Fortress 2 Media
+- [BlackOut TV](http://www.twitch.tv/blackoutgamingtv)
+  - European Competitive Team Fortress 2 Broadcasts
+- [ETF2L.org](http://etf2l.org)
+  - European competitive Team Fortress 2 League
+- [UGC League](https://www.ugcleague.com)
+  - One of the largest World-Wide Team Fortress 2 Leagues, featuring 9v9, 6v6, 4v4 and 2v2 games.
+- [ozfortress](http://ozfortress.com/)
+  - The Australian community website for Team Fortress 2
+- [ESEA League](https://play.esea.net/)
+  - World-wide multi gaming league
