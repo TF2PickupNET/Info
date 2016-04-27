@@ -27,7 +27,8 @@ Sections:
  - !mumble
    - This will connect you to our mumble server
  - !admin <reason>
-   - This will alert all admins that are currently online to check your reason. <div>If you abuse this command it may result in a ban!</div>
+   - This will alert all admins that are currently online to check your reason. 
+   - If you abuse this command it may result in a ban!
  - !logout
    - This will log you out
  - Autocomplete names and emoticons
