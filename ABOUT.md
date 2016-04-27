@@ -1,5 +1,5 @@
- - [![Steam](http://steamcommunity.com/groups/TF2PickupNET)](https://cdn.tf2pickup.net/assets/images/social-icons/steam.svg)
- - [![Facebook](https://www.facebook.com/TF2Pickup)](https://cdn.tf2pickup.net/assets/images/social-icons/facebook.svg)
+ - [![Steam](https://cdn.tf2pickup.net/assets/images/social-icons/steam.svg)](http://steamcommunity.com/groups/TF2PickupNET)
+ - [![Facebook](https://cdn.tf2pickup.net/assets/images/social-icons/facebook.svg)](https://www.facebook.com/TF2Pickup)
  - [![Twitter](https://twitter.com/TF2Pickup)](https://cdn.tf2pickup.net/assets/images/social-icons/twitter.svg)
  - [![Twitch](http://www.twitch.tv/TF2Pickup)](https://cdn.tf2pickup.net/assets/images/social-icons/twitch.svg)
  - [![Discord](https://discord.gg/0ZFcGPZMQIfGVDgA)](https://cdn.tf2pickup.net/assets/images/social-icons/discord.svg)
