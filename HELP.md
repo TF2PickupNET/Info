@@ -1,9 +1,9 @@
 Welcome to the help section
 
 Sections:
- - (FAQ)[#faq]
- - (Chat commands)[#chat-commands]
- - (Other help)[#other-help]
+ - [FAQ](#faq)
+ - [Chat commands](#chat-commands)
+ - [Other help](#other-help)
 
 ## FAQ
  - I want to browse other website when I\'m added up, how do I know when to ready up?
