@@ -20,6 +20,7 @@ Sections:
     - Fill out your Twitch channel name in your [Profile](/profile) and make sure you have been active on TF2Pickup.net recently and that you are streaming Team Fortress 2. Donators who stream Team Fortress 2 are always shown in the list of streaming users when they are live.
   - Why does this player have a pink/purple heart next to his username?
     - This is a TF2Pickup.net Medic-Friendpick&trade; indicator; a medic has picked a player to end up in his/her team. This only works in Highlander and the 6v6 pickup bots.
+
 ## Chat commands
  - !help
    - This will redirect you to this page
