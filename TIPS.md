@@ -1,1 +1,3 @@
-
+- Don't forget to join the <a href="http://steamcommunity.com/groups/TF2PickupNET" target="_blank" rel="external"> TF2Pickup.net Steam Group</a> (and invite your friends)
+- Don't forget to join the <a href="http://steamcommunity.com/groups/TF2PickupNETHL" target="_blank" rel="external"> TF2Pickup.net Highlander Steam Group</a> (and invite your friends)
+- Add your Twitch Channel & change the [/announcers](announcer) for the pickup ready up sounds on your[/profile](TF2Pickup.net Profile)
