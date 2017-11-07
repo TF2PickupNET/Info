@@ -1,4 +1,4 @@
-<span class="bot">TF2Pickup.net</span> is a web-based pickup, where the players can easily play competitive Team Fortress 2.
+TF2Pickup.net is a web-based pickup, where the players can easily play competitive Team Fortress 2.
 
 The currently supported gamemodes are [6v6](/6v6), [Highlander](/9v9), [Ultiduo](/ultiduo), [BBall](/bball).
 
