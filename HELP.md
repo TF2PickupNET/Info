@@ -35,5 +35,5 @@ Sections:
    - Just press tab and it might be autocompleting what you want to write. This will only work if we find only one possible completion!
  
 ## Other help
- - If you have any question about TF2Pickup add: [LaMqTa](http://steamcommunity.com/profiles/76561197998273743/)
- - If you found a bug or you have an idea, add this guy: [Kampfkeks](http://steamcommunity.com/id/kampfkeks103/)
+
+If you still have questions check out our [discord server](https://discord.gg/0ZFcGPZMQIfGVDgA).
