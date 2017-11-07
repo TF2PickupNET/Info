@@ -36,4 +36,4 @@ Sections:
  
 ## Other help
 
-If you still have questions check out our [discord server](https://discord.gg/0ZFcGPZMQIfGVDgA).
+If you still have questions check out our [discord server](https://discordapp.com/channels/101790253651599360/101807927752409088).
